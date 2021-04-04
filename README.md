@@ -14,3 +14,6 @@
 ### Sprint 1
 - Project Overview
 - Requirements Elicitation
+### Sprint 2
+- Motivational Model
+- Personas
