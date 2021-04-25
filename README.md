@@ -17,3 +17,8 @@
 ### Sprint 2
 - Motivational Model
 - Personas
+### Sprint 3
+- User Stories
+- User Story Map
+- User Journey Map
+- Paper Prototype
