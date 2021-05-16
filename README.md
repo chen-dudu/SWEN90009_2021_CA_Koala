@@ -22,3 +22,11 @@
 - User Story Map
 - User Journey Map
 - Paper Prototype
+### Sprint 4
+- Acceptance Criteria
+- Acceptance Test
+- Moodboard
+- Digital Prototype
+- Data Sample
+- Traceability Matrix
+- Some images used to produced the digital prototype
