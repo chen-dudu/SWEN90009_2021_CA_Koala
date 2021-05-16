@@ -29,4 +29,4 @@
 - Digital Prototype
 - Data Sample
 - Traceability Matrix
-- Some images used to produced the digital prototype
+- Some images used to produce the digital prototype
