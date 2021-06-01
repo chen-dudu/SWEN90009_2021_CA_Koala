@@ -4,9 +4,9 @@
 |--- docs/     # Documentation files (project background, user stories, journey maps, personas, motivational model, final presentation and so on)
 |--- tests/     # Automated tests (acceptance criteria and acceptance tests)
 |--- prototypes/low fidelity/     # low fidelity files (paper prototype, screens, mockups and so on)
-|--- prototype/high fidelity/     # high fidelity files (digital prototype, screens, source files and so on)
+|--- prototypes/high fidelity/     # high fidelity files (digital prototype, screens, source files and so on)
 |--- ui/     # All the images created for the prototypes (icons, fonts, backgrounds...)
-|--- data samples/     # Documents  the data (inputs) to simulate/demonstrate the prototype
+|--- data samples/     # The data (inputs) to simulate/demonstrate the prototype
 |___ README.md
 ```
 
