@@ -1,12 +1,12 @@
 # SWEN90009_2021_CA_Koala
 ## Project Structure
 ```
-|--- docs/     # Documentation files (you can create sub-folders here to organize your requirements and meeting minutes)
-|--- tests/     # Automated tests
-|--- prototypes/low fidelity/     # low fidelity files (screens, mockups and so on)
-|--- prototype/high fidelity/     # high fidelity files (screens, source files and so on)
-|--- ui/     # All the images created for the prototypes (icons, fonts, backgrounds... should be here. This is different from the prototypes' folders. These are the graphical elements that goes into the prototypes)
-|--- data samples/     # Documents you need to generate with all the data (inputs) necessary to simulate/demonstrate your prototype (whatever can be provided as an input in your prototype)
+|--- docs/     # Documentation files (project background, user stories, journey maps, personas, motivational model, final presentation and so on)
+|--- tests/     # Automated tests (acceptance criteria and acceptance tests)
+|--- prototypes/low fidelity/     # low fidelity files (paper prototype, screens, mockups and so on)
+|--- prototype/high fidelity/     # high fidelity files (digital prototype, screens, source files and so on)
+|--- ui/     # All the images created for the prototypes (icons, fonts, backgrounds...)
+|--- data samples/     # Documents  the data (inputs) to simulate/demonstrate the prototype
 |___ README.md
 ```
 
